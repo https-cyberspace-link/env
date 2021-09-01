@@ -1,0 +1,23 @@
+{
+  "name": "@cyberspace/env",
+  "version": "1.0.1",
+  "description": "cyberspace env contant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/https-cyberspace-link/env.git"
+  },
+  "keywords": [
+    "cyberspace"
+  ],
+  "author": "gxlself",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https-cyberspace-link/env/issues"
+  },
+  "homepage": "https://github.com/https-cyberspace-link/env#readme",
+  "dependencies": {}
+}
